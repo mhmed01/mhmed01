@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Mohamed Osman] – Frontend Developer
+# 👋 Hi, I'm Mohamed Osman – Frontend Developer
 
 Welcome to my GitHub! I'm a passionate and detail-oriented frontend developer focused on building responsive, user-friendly, and visually appealing web applications. I love turning designs into clean, efficient code and constantly learning new tools and technologies.
 

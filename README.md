@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm [Mohamed Osman] – Frontend Developer
 
-<!--
-**mhmed01/mhmed01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate and detail-oriented frontend developer focused on building responsive, user-friendly, and visually appealing web applications. I love turning designs into clean, efficient code and constantly learning new tools and technologies.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Learning: TypeScript, React, Next.js, Web Performance Optimization
+- 💬 Ask me about: React, CSS Architecture, Frontend Best Practices
+- 📫 Reach me: [mohaamedosman97@gmail.com] | [LinkedIn](www.linkedin.com/in/mohamed-osman-107872228)
+
+## 🛠️ Tech Stack
+
+Here’s what I work with on a daily basis:
+
+**Languages & Frameworks:**
+- HTML5, CSS3, JavaScript (ES6+), TypeScript
+- React, Next.js, Tailwind CSS, Bootstrap
+
+**Tools & Platforms:**
+- Git & GitHub, VS Code, Vite
+- REST APIs, GraphQL
+
+Thanks for stopping by! 😊  
+

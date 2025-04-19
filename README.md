@@ -6,7 +6,8 @@ Welcome to my GitHub! I'm a passionate and detail-oriented frontend developer fo
 
 - 🌱 Learning: TypeScript, React, Next.js, Web Performance Optimization
 - 💬 Ask me about: React, CSS Architecture, Frontend Best Practices
-- 📫 Reach me: [mohaamedosman97@gmail.com] | [LinkedIn](www.linkedin.com/in/mohamed-osman-107872228)
+- 📫 Reach me: [mohaamedosman97@gmail.com]
+-  [LinkedIn](www.linkedin.com/in/mohamed-osman-107872228)
 
 ## 🛠️ Tech Stack
 
